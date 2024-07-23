@@ -1,0 +1,9 @@
+student = {
+    "name":"parn",
+    "age":20,
+    "grade":"SSR"
+}
+print(student) 
+student["school"]="varee"
+del student["grade"]
+print(student)
